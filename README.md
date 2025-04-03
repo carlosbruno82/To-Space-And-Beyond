@@ -7,10 +7,8 @@ Aprender a mover uma nave controlada pelo jogador vista de cima no espaço.
 
 <img src="https://github.com/carlosbruno82/To-Space-And-Beyond/blob/main/github/ship_in_space.gif">
 
-## Sobre o estudo deste módulo:
-Ao final deste módulo, você terá uma nave controlada pelo jogador vista de cima no espaço.
+## O que aprendi neste módulo:
 
-Você aprenderá:
 - Como escutar entradas do jogador no teclado ou gamepad.
 - Como fazer um personagem se mover em qualquer direção num jogo top-down.
 - Como rotacionar um personagem na direção pressionada pelo jogador.
