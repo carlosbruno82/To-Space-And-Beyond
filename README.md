@@ -20,3 +20,6 @@ Aprender a mover uma nave controlada pelo jogador vista de cima no espaço.
 ~~Carlos Bruno~~ 🎮
 
 </div>
+
+- Made with Godot Engine ([license](https://godotengine.org/license/))
+- Art assets: CC-BY 4.0 [GDQuest](https://www.gdquest.com/)
